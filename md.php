@@ -1,6 +1,6 @@
 <?php
 /*
- * MarkdownSyntax.php - A MediaWiki extension which adds Markdown syntax.
+ * md.php - A MediaWiki extension which adds Markdown syntax.
  * @author Michael McCouman jr.
  * @version 1.5
  * @copyright Copyright (C) 2013 C3ltaX Media
